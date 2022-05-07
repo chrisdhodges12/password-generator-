@@ -16,7 +16,8 @@ The user is prompted to choose a password length, and asked whether or not the p
 
     https://chrisdhodges12.github.io/password-generator-/
 
-    <img src="develop/website-screenshot.jpg" width="600px" height="500px">
+<img src="develop/website-screenshot.jpg" width="600px" height="500px">
+
 
 
 ## Developed by Chris Hodges 
